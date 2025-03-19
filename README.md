@@ -1,5 +1,7 @@
 # linux-command
 
+```
+
 ● 환경변수 세팅
 sudo vi ~/.bashrc
 source ~/.bashrc   << 적용
@@ -124,3 +126,4 @@ git rm -r --cached .
 sudo service codedeploy-agent status
 sudo service codedeploy-agent start
 
+```
